@@ -1,7 +1,7 @@
 This is an example of accelerated learning by "jumping in at the deep end" ... a vastly better way to learn than via a university education.
 
 
-## The Open-Source Data Science Masters
+## The OSDSM Origin
 
 This repo was origninally forked from [the open-source data science masters (OSDSM) curriculum github repository](https://github.com/datasciencemasters/go). The OSDSM breaks down the core competencies necessary to making use of data.
 
