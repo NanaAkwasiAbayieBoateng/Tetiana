@@ -1,4 +1,4 @@
-This is an example of accelerated agile learning or LEAN education by "jumping in at the deep end," "swimming toward the goal" and then surviving to repeat ... a vastly better way to learn than standing on the sidelines and racking up debts in a university education.  
+This is an example of accelerated agile learning or LEAN education by "jumping in at the deep end," "swimming toward the goal" and "swimming" in a competent enough fashion to survive and repeat ... transforming your base of knowledge continually throughout life ... a vastly better way to learn than standing on the sidelines and racking up debts in a university education.  
 
 The general method for LEAN education is rather tough, but it is very simple: 
 
