@@ -7,7 +7,7 @@ The impetus for this project was driven by a simple and absolutely compelling ho
 
 This repo was origninally forked from [the open-source data science masters (OSDSM) curriculum github repository](https://github.com/datasciencemasters/go). The OSDSM breaks down the core competencies necessary to making use of data.  It is not perfect -- it is up to YOU to find its imperfections and to make it perfect.
 
-### The Internet is Your Oyster -- Use the Difficulties to Perfect Your Ability To Learn How To Learn
+### The Internet is Your Oyster -- Use the Difficulties You Encounter to Get Tougher and Perfect Your Ability To Learn How To Learn
 
 With free and open source software as well as the GitHub community, MeetUps, Stack Overflow, YouTube, Quora, MOOCs, Wikipedia, ebooks, blogs, wikis -- all free, open communities, requiring nothing but ambition and solid EFFORT [to prove your merit to contemporaries with motivations similar to yours] -- as well as other high-quality and affordable low-priced training providers such as Udacity or O'Reilly's Safari -- how can you afford not to take advantage of accelerated, non-traditional educational alternatives?
 
