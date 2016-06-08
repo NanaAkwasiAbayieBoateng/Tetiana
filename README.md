@@ -41,7 +41,9 @@ Classic academic conduits cannot provide Data Scientists -- this talent gap will
 
 ## The Open Source Data Science Curriculum
 
-Start here.
+Your skills will resemble the skills of those who you associate with.  Seek out different perspectives on [institutionalizing a culture of data science](https://www.safaribooksonline.com/library/view/learning-path-creating/9781491962633/) in your life.  
+
+Dig in and get started, understand that you will be in "over your head" but get started. Don't worry if some of the topics seem beyond you at first -- the material will make sense as you work with it.  Get started, keep going, be patient with your ability to pick up the material, but just stay at it.   
 
 **Intro to Data Science** [UW / Coursera](http://bit.ly/uwintrodatascience)
  * *Topics:* Python NLP on Twitter API, Distributed Computing Paradigm, MapReduce/Hadoop & Pig Script, SQL/NoSQL, Relational Algebra, Experiment design, Statistics, Graphs, Amazon EC2, Visualization.
