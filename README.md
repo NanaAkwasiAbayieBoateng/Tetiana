@@ -41,7 +41,7 @@ Classic academic conduits cannot provide Data Scientists -- this talent gap will
 
 ## The Open Source Data Science Curriculum
 
-Your skills will resemble the skills of those who you associate with.  Seek out different perspectives on [institutionalizing a culture of data science](https://www.safaribooksonline.com/library/view/learning-path-creating/9781491962633/) in your life.  
+Your skills in studying and learning how to learn will resemble the skills of those who you train with.  If you want to be a data scientist, you have to begin thinking like a data scientist when it comes to approaching problems -- seek out different perspectives on [institutionalizing your own culture of data science](https://www.safaribooksonline.com/library/view/learning-path-creating/9781491962633/) in your life.  
 
 Dig in and get started, understand that you will be in "over your head" but get started. Don't worry if some of the topics seem beyond you at first -- the material will make sense as you work with it.  Get started, keep going, be patient with your ability to pick up the material, but just stay at it.   
 
