@@ -3,17 +3,17 @@ This is an example of accelerated learning by "jumping in at the deep end" ... a
 
 ## The Open-Source Data Science Masters
 
-The open-source curriculum for learning Data Science. Foundational in both theory and technologies, the OSDSM breaks down the core competencies necessary to making use of data.
+This repo was origninally forked from [the open-source data science masters (OSDSM) curriculum github repository](https://github.com/datasciencemasters/go). The OSDSM breaks down the core competencies necessary to making use of data.
 
 ### The Internet is Your Oyster
 
-With Coursera, ebooks, Stack Overflow, and GitHub -- all free and open -- how can you afford not to take advantage of an open source education?
+With free and open source software as well as the GitHub community, MeetUps, Stack Overflow, YouTube, Quora, MOOCs, Wikipedia, ebooks, blogs, wikis -- all free, open communities, requiring nothing but ambition and solid EFFORT [to prove your merit to contemporaries with motivations similar to yours] -- as well as other high-quality and affordable low-priced training providers such as Udacity or O'Reilly's Safari -- how can you afford not to take advantage of accelerated, non-traditional educational alternatives?
 
 ### The Motivation
 
-We need more Data Scientists.
+Right NOW, we need a LOT more Data Scientists ... that probably will not be true if you waste time getting in a bachelors and masters degree or even a Ph.D ... and even if we do need data scientists in five or ten years, the skills that those people need will be very different from the skills required today ... consider for example how much data science, information technology, cloud computing. 
 
-> ...by 2018 the United States will experience a shortage of 190,000 skilled data scientists, and 1.5 million managers and analysts capable of reaping actionable insights from the big data deluge.
+> ...by 2018 the United States will experience a shortage of 190,000 skilled data scientists, and 1.5 million managers and analysts capable of reaping actionable insights from the big data deluge.  THIS is a great statistic ... but even traditional education can develop impressive sounding degree programs, all of academia is still far too hidebound and bureaucratic -- it is certainly far, far too unresponsive to adapt to exactly what SKILLS [especially in the realm of rapidly evolving social skills such as online community building and social networking] that will be required by data professionals in 2018.
 
 -- [McKinsey Report Highlights the Impending Data Scientist Shortage](http://bit.ly/datascienceshortage) 23 July 2013
 
