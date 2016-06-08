@@ -5,7 +5,7 @@ This is an example of accelerated learning by "jumping in at the deep end" ... a
 
 The impetus for this project was driven by a simple and absolutely compelling hour-long talk delivered by Tatiana Ivanova: [How to Become a Data Scientist in 6 Months -- A Hacker’s Approach to Career Planning](https://youtu.be/rIofV14c0tc) at PyData London 2016.  What is so compelling about Tatiana's Manifesto is that the principles do not just apply to Python or Data Science -- these same principles will apply to lifelong learning and the career transitions that knowledge professionals can expect for the next century or more.  It is an absolutely BRILLIANT Manifesto -- if you watch it, I will gaurantee that you will find it thoroughly compelling, in many different dimensions. 
 
-This particular repo is a work-in-progress [as almost all repos tend to be.] It was origninally forked from [the excellent open-source data science masters (OSDSM) curriculum github repository](https://github.com/datasciencemasters/go). The OSDSM breaks down the core competencies necessary to making use of data.  The original OSDSM is pretty awesome, although it will not be perfect for you -- that is the POINT.  It is up to YOU to fork your repo, find ways to improve it for your particular career situation and work steadily at making your repo more perfect and a better starting point for someone else.
+This particular repo is a work-in-progress [as almost all repos tend to be.] It was origninally forked from [the excellent open-source data science masters (OSDSM) curriculum github repository](https://github.com/datasciencemasters/go). The OSDSM breaks down the core competencies necessary to making use of data.  The original OSDSM is pretty awesome, although it will not be perfect for you -- that is the POINT.  YOU will learn more by developing your own curriculum than you can possibly learn by just following someone else's curriculum.  It is important not to start from scratch -- it is up to YOU to fork your own repo, aggressively seek ways to compare it against the best alternatives, find ways to accelerate the improvement of your curriculum and work assiduously on your particular career situation and knowledge gaps, steadily making your repo more perfect and a better starting point for someone else.
 
 ### The Internet is Your Oyster -- Use the Difficulties You Encounter to Get Tougher and Perfect Your Ability To Learn How To Learn
 
@@ -25,7 +25,7 @@ Right NOW, we need a LOT more Data Scientists ... that probably will not be true
 
 ### An Academic Shortfall
 
-Classic academic conduits aren't providing Data Scientists -- this talent gap will be closed differently.
+Classic academic conduits cannot provide Data Scientists -- this talent gap will be closed differently, in different situations ... the closure will happen in the most expeditious, the most accelerated fashion when individuals sieze responsibility for closing their own talent gaps.  "Teachers pets" cannot close this talent gap ... they can only imitate those who are attempting to complete the closure.
 
 > **Academic credentials are important but not necessary for high-quality data science.** The core aptitudes – curiosity, intellectual agility, statistical fluency, research stamina, scientific rigor, skeptical nature – that distinguish the best data scientists are widely distributed throughout the population.
 
