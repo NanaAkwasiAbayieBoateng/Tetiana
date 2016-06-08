@@ -1,7 +1,9 @@
 This is an example of accelerated learning by "jumping in at the deep end" ... a vastly better way to learn than via a university education.
 
 
-## The OSDSM Origin
+## Tatiana's Manifesto
+
+The impetus for this project was driven by a simple and absolutely compelling hour-long talk delivered by Tatiana Ivanova: [How to Become a Data Scientist in 6 Months -- A Hacker’s Approach to Career Planning](https://youtu.be/rIofV14c0tc) at PyData London 2016.  What is so compelling about Tatiana's Manifesto is that the principles do not just apply to Python or Data Science -- these same principles will apply to lifelong learning and the career transitions that knowledge professionals can expect for the next century or more.  It is an absolutely BRILLIANT Manifesto -- if you watch it, I will gaurantee that you will find it thoroughly compelling, in many different dimensions. 
 
 This repo was origninally forked from [the open-source data science masters (OSDSM) curriculum github repository](https://github.com/datasciencemasters/go). The OSDSM breaks down the core competencies necessary to making use of data.
 
