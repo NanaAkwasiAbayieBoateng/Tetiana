@@ -2,11 +2,11 @@ This is an example of accelerated agile learning or LEAN education by "jumping i
 
 The general method for LEAN education is rather tough, but it is very simple: 
 
-1. Determine the requirements for a "MVP" self-educational product: closing as much ground in your technical knowledge gap as possible; 
+1. Determine the requirements for a "MVP" self-educational product: closing as much ground in your technical knowledge gap as rapidly possible by the eliminating the non-value-added activities; 
 2. Develop a your own immersive curriculum with a aim toward of learning enough to fill the need [or, at least, "fake it"] in six months.
-3. Investing as little as possible in non-value-added activities, work your plan while adjusting tactically in PDCA fashion.  
+3. Work your plan in agile fashion every single day while adjusting tactically according to a measured PDCA discipline to develop mental toughness, leadership and your own LEAN education habits.  
 4. Stick with your general strategic plan for six months before re-evaluating strategically.
-5. Repeat steps 1-4.
+5. Fork the process and do it better as you repeat steps 1-4.
 
 ## Tatiana's Manifesto
 
