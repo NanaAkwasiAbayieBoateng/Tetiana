@@ -1,5 +1,12 @@
-This is an example of accelerated learning by "jumping in at the deep end" ... a vastly better way to learn than via a university education.
+This is an example of accelerated agile learning or LEAN education by "jumping in at the deep end," "swimming toward the goal" and then surviving to repeat ... a vastly better way to learn than standing on the sidelines and racking up debts in a university education.  
 
+The general method for LEAN education is rather tough, but it is very simple: 
+
+1) Determine the requirements for a "MVP" self-educational product: closing as much ground in your technical knowledge gap as possible; 
+2) Develop a your own immersive curriculum with a aim toward of learning enough to fill the need [or, at least, "fake it"] in six months.
+3) Investing as little as possible in non-value-added activities, work your plan while adjusting tactically in PDCA fashion.  
+4) Stick with your general strategic plan for six months before re-evaluating strategically.
+5) Repeat steps 1-4.
 
 ## Tatiana's Manifesto
 
