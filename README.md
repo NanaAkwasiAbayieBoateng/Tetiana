@@ -1,6 +1,5 @@
-Find me Twitter [@clarecorthell](http://bit.ly/clarecorthelltwitter)!
+This is an example of accelerated learning by "jumping in at the deep end" ... a vastly better way to learn than via a university education.
 
-I'm the founding partner of [Luminant Data](http://bit.ly/luminantdata), a Data Science Consultancy.
 
 ## The Open-Source Data Science Masters
 
