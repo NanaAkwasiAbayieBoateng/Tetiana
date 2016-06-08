@@ -25,7 +25,7 @@ Right NOW, we need a LOT more Data Scientists ... that probably will not be true
 
 ### An Academic Shortfall
 
-Classic academic conduits cannot provide Data Scientists -- this talent gap will be closed differently, in different situations ... the closure will happen in the most expeditious, the most accelerated fashion when individuals sieze responsibility for closing their own talent gaps.  "Teachers pets" cannot close this talent gap ... they can only imitate those who are attempting to complete the closure.
+Classic academic conduits cannot provide Data Scientists -- this talent gap will be closed differently, different adaptations will make sense in different situations, but it will always be true the closure will happen in the most expeditious, the most accelerated fashion when individuals sieze responsibility for closing their own talent gaps.  People who need to have their progress affirmed by experts or need to behave as "teachers pets" cannot close this talent gap ... those can only regurgitate what they learn.  Genuine learning is not comfortable or entertaining; actually learning is HARD ...it is necessary to actually struggle with problems and difficult attempts to close the gap in knowledge.
 
 > **Academic credentials are important but not necessary for high-quality data science.** The core aptitudes – curiosity, intellectual agility, statistical fluency, research stamina, scientific rigor, skeptical nature – that distinguish the best data scientists are widely distributed throughout the population.
 
