@@ -98,6 +98,9 @@ Out of personal preference and need for focus, I geared the original curriculum 
 
 Get your environment up and running with the [Data Science Toolbox](http://bit.ly/datascitoolbox)
 
+* **Programming** 
+ * [Python Tutor](http://pythontutor.com) -- a web playground to help people overcome a fundamental barrier to learning polyglot programming [when working in different languages, other than your "native" language] by using a PythonTutor window on a webbrowser for understanding what happens as the computer executes each line of a program's source code in Python, Java, JavaScript, TypeScript, Ruby, C, and C++ programs ... no substitute for really learning a language, but a good supplement to the textbooks, lecture notes, online programming tutorials, fora that a programs uses for ~really~ learning a language.
+
 * **Algorithms**
  * Algorithms Design & Analysis I [Stanford / Coursera](http://bit.ly/coursera-algo)
  * Algorithm Design, Kleinberg & Tardos [Book ```$125```](http://amzn.to/1iMnWm5)
